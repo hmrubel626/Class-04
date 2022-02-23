@@ -1,0 +1,407 @@
+
+/*index.html*/
+
+.division{
+	text-align: center;
+}
+
+.nav-bar{
+	text-align: center;
+	font-size: 20px;
+	background-color: gainsboro;
+	padding: 5px 5px;
+	display: inline-block;
+	border-radius: 10px;
+}
+
+.nav-home{
+	text-decoration: none;
+	margin: 30px;
+}
+
+.nav-about{
+	text-decoration: none;
+	margin: 30px;
+}
+
+.nav-resume{
+	text-decoration: none;
+	margin: 30px;
+}
+
+.nav-contact{
+	text-decoration: none;
+	margin: 30px;
+
+}
+
+.div2{
+	text-align: center;
+	margin-top: 20px;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+
+
+/*about-me.html.html*/
+
+.about-div{
+	text-align: center;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+	
+
+	.button{
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color: #4CAF50;
+}
+
+
+
+/*my-resume.html*/
+
+.resume-page{
+	
+	text-decoration: none;
+	font-size: 30px;
+	
+}
+
+.resume-div{
+	text-align: center;
+	background-color: skyblue;
+	display: inline-block;
+	padding: 20px;
+	border-radius: 10px;
+	border: 5px dotted red;
+	margin-left: 600px;
+	margin-top: 20px;
+}
+
+
+
+/*contact-me.html*/
+
+.contact-div{
+	text-align: center;
+
+}
+
+.contact-heading{
+	text-align: center;
+	border: 2px dashed yellowgreen;
+	display: inline-block;
+	background-color: brown;
+	padding: 10px;
+	color: white;
+	font-style: oblique;
+
+}
+
+.contact-section{
+	margin-left: 50px;
+}
+
+.button2a{
+	text-decoration: none;
+	font-size: 20px;
+}
+
+.button2{
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button2 {
+  background-color: white;
+  color: black;
+  border: 2px solid #4CAF50;
+}
+
+.button2:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+
+
+/*home.html*/
+
+.home-div{
+	text-align: center;
+}
+
+
+
+/*w3schools*/
+
+.button3a{
+	text-decoration: none;
+	font-size: 20px;
+}
+
+.button3{
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  margin-left: 600px;
+
+}
+
+.button3 {
+  background-color: white;
+  color: black;
+  border: 2px solid #4CAF50;
+}
+
+.button3:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+
+
+
+.nav-w3schools{
+	text-decoration: none;
+	margin: 30px;
+
+}
+
+.w3schools-div{
+	text-align: center;
+}
+
+
+
+
+
+
+/*hr4*/
+
+.hr4{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: dotted;
+  border-width: 2px;
+  color: white;
+  background-color: red;
+}
+
+
+
+/*Formatting*/
+
+.color{
+	color: blueviolet;
+}
+
+
+.del-color{
+	color: blue;
+}
+
+.right-color{
+	color: red;
+}
+
+kbd{
+	border-radius: 2px;
+  padding: 2px;
+  border: 1px solid green;
+}
+
+mark{
+	background-color: yellow;
+  color: red;
+}
+
+.pre-auto{
+	width:300px;
+	overflow:auto;
+	margin-left: 500px;
+}
+
+.div3{
+	text-align: center;
+}
+
+
+
+.button1{
+	border: 1px solid green;
+	color: white;
+	background-color: darkblue;
+	padding: 10px 20px;
+	border-radius: 5px;
+	font-size: 20px;
+}
+
+
+
+/*Form*/
+
+form{
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+.phone{
+	margin-left: 115px;
+	width: 20%;
+}
+.name{
+	margin-left: 180px;
+	width: 20%;
+}
+.mail{
+	margin-left: 187px;
+	width: 20%;
+}
+.password{
+	margin-left: 152px;
+	width: 20%;
+}
+
+.all-division{
+	margin-left: 165px;
+	padding: 2px;
+	text-align: center;
+}
+.zip{
+	margin-left: 155px;
+	width: 20%;
+}
+.file{
+	margin-left: 110px;
+}
+.comments{
+	margin-left: 230px;
+	width: 20%;
+}
+.submit{
+margin-left: 110px;
+}
+.reset{
+margin-left: ;
+}
+
+.iframe-div{
+	text-align: center;
+}
+
+.map-div{
+	text-align: center;
+}
+
+.figure-div{
+	text-align: center;
+}
+
+figure{
+	border: 2px red dotted;
+	padding: 4px;
+	margin: auto;
+  width: 60%;
+}
+
+figcaption {
+  background-color: black;
+  color: white;
+  padding: 2px;
+  text-align: center;
+  margin-left: 160px;
+  margin-right: 160px;
+}
+.div-audio{
+	text-align: center;
+	border: 2px dashed brown;
+	margin-left: 500px;
+	margin-right: 500px;
+}
+
+.div-video{
+	text-align: center;
+	border: 2px solid; darkblue;
+	margin-left: 300px;
+  margin-right: 300px;
+  padding: auto;
+}
+
+.list-div{
+	margin-left: 300px;
+}
+
+td{
+	text-align: center;
+}
+
+.table-div{
+	
+	margin-left: 500px;
+}
+
+
+.button4{
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  margin-left: 600px;
+
+}
+
+.button4 {
+  background-color: red;
+  color: yellow;
+  border: 2px solid #4CAF50;
+}
+
+.button4:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+
+
+footer{
+	text-align: center;
+	background-color: red;
+	color: white;
+	padding: 10px;
+	border-radius: 10px;
+	margin-bottom: 50px;
+
+}
